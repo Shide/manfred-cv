@@ -8,12 +8,21 @@
     "profile": {
       "name": "Eduardo",
       "surnames": "de Miguel",
-      "title": "",
+      "title": "Odoo Developer and Consultant ",
       "description": "",
       "location": {
+        "country": "España",
+        "region": "Aragón",
+        "municipality": "Fuentes de Ebro",
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/eduardodemiguel"
+      }
+    ]
   },
   "knowledge": {
     "hardSkills": [
@@ -170,6 +179,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/eduardodemiguel"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
