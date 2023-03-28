@@ -170,6 +170,41 @@
     ]
   },
   "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Odoo",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "TensorFlow",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Data Analysis & BI",
+        "Data Scientist",
+        "Developer Evangelist & Advocate",
+        "Implementation & Solutions Engineer",
+        "Project Manager & Delivery Manager",
+        "Research Developer"
+      ]
+    },
     "status": "searchingActively"
   }
 }
