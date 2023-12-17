@@ -10,8 +10,8 @@
       "surnames": "de Miguel Portolés",
       "title": "Senior Odoo Software Engineer @ Moduon Team",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/17/255991ff-7601-4da2-afdd-6c504f257de4_linkedin-photo-25981.linkedin-photo-25981",
-        "alt": "23/12/17/255991ff-7601-4da2-afdd-6c504f257de4_linkedin-photo-25981.linkedin-photo-25981"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/17/224388da-a4f4-4faa-92bc-0b0c223be960_linkedin-photo-25981.linkedin-photo-25981",
+        "alt": "23/12/17/224388da-a4f4-4faa-92bc-0b0c223be960_linkedin-photo-25981.linkedin-photo-25981"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJD7E5FjAnWQ0R2vzoPj3f2ZI)",
@@ -24,6 +24,105 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/eduardodemiguel"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Moduon",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/17/555ff606-23d3-412d-8a93-28a848cd86e1_linkedin-photo-25981.linkedin-photo-25981",
+            "alt": "23/12/17/555ff606-23d3-412d-8a93-28a848cd86e1_linkedin-photo-25981.linkedin-photo-25981"
+          }
+        },
+        "roles": [
+          {
+            "name": "Odoo Developer",
+            "startDate": "2022-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Grupo Foticos S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/17/54f1fe04-ca5c-46f4-b882-e01e1bca3d63_linkedin-photo-25981.linkedin-photo-25981",
+            "alt": "23/12/17/54f1fe04-ca5c-46f4-b882-e01e1bca3d63_linkedin-photo-25981.linkedin-photo-25981"
+          }
+        },
+        "roles": [
+          {
+            "name": "Odoo Developer, Data Scientist",
+            "startDate": "2017-06-01",
+            "finishDate": "2021-12-31",
+            "challenges": [
+              {
+                "description": "Odoo skills:\n- Odoo 8, Odoo 12\n- Odoo Full Migration (Odoo 8 to Odoo 12)\n- Everyday module designing and development (Odoo, OCA, Custom)\n- Odoo Server Config tunning\n- POS Customisation\n- Portal Customisation\n\nOdoo Integration skills:\n- Weblate (Translators portal) + API cross sync\n- Crosscheck Time Attendance Integration (Improved a lot)\n- Banking Reconciliation Platform\n- Paypal Sync, Paypal Discussions\n- Google Maps Geocoding, Google OAuth\n- Sendgrid\n- Other (Slack Apps, Zopim)\n\nWeb Crawling skills:\n- Scrapy + Selenium + Tesseract\n- Algolia Docsearch + Framework Improvements\n- Odoo related modules\n\nDevOps skills:\n- Jenkins scripting, triggers, integration, etc\n\nArtificial Intelligence skills:\n- Practical applications with Convolutional Neural Networks (Remove backgrounds, colorize, etc)\n- Several Custom Algorithms (Stock, Translation, Statistics, etc)\n\nOther (but not less important) skills:\n- Python 2.7 to Python 3.6+\n- Clean, Concise, Documented and Standarized code (PEP 8 and OCA standards)\n- Documentation with Sphinx Autodoc\n- Git (Vincent Driessen's Git flow), Bitbucket\n- Jira Software: Projects configuration, management, reporting and automation\n- BBDD: Postgres (v9 and V10), MySql, SqlServer\n- Cross BBDD Synchronization\n- Jupyter (IPython) Notebook Scripting"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ticketea",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/17/db5927fb-b93e-4626-8b8f-fb0f73092167_linkedin-photo-25981.linkedin-photo-25981",
+            "alt": "23/12/17/db5927fb-b93e-4626-8b8f-fb0f73092167_linkedin-photo-25981.linkedin-photo-25981"
+          }
+        },
+        "roles": [
+          {
+            "name": "Odoo Developer",
+            "startDate": "2015-11-01",
+            "finishDate": "2017-05-31",
+            "challenges": [
+              {
+                "description": "- Análisis de requisitos y desarrollos personalizados para OpenERP 7 (Odoo) principalmente en las áreas de Contabilidad y CRM.\n- Mantenimiento de todo el OpenERP, velando para que todo funcionase correctamente y sin problemas.\n- Integraciones y sincronizaciones externas en OpenERP.\n- Scripting con Jupyter (Ipython Notebook) y ERPPeek.\n- Refactorización de módulos para aumentar su velocidad.\n- Otras tecnologías utilizadas: Ansible, SQS, Celery, Git, Python."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BITYVIP",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/17/4027e7bb-55c7-4ca7-8193-1961cdd770a5_linkedin-photo-25981.linkedin-photo-25981",
+            "alt": "23/12/17/4027e7bb-55c7-4ca7-8193-1961cdd770a5_linkedin-photo-25981.linkedin-photo-25981"
+          }
+        },
+        "roles": [
+          {
+            "name": "Odoo Developer, Data Scientist",
+            "startDate": "2013-10-01",
+            "finishDate": "2015-10-31",
+            "challenges": [
+              {
+                "description": "- Desarrollos a medida para empresas de carácter Industrial en OpenERP (Odoo) sobre Python 2.6x, 2.7x y PostgreSQL.\n- Proyectos orientados a Big Data y al Análisis de Datos.\n- Desarrollo Frontend y Backend en Python 2.6+, Pyramid y Javascript (ECMAScript 5+)\n\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Pariver S.A."
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2010-11-01",
+            "finishDate": "2012-07-31",
+            "challenges": [
+              {
+                "description": "Developing Software on .Net, Java, Html, Php, Asp"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
