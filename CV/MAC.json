@@ -1,140 +1,55 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Eduardo",
-      "surnames": "de Miguel",
-      "title": "Odoo Developer and Consultant ",
-      "description": "",
+      "surnames": "de Miguel Portolés",
+      "title": "Senior Odoo Software Engineer @ Moduon Team",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/17/9a6757a7-500f-46bb-9bc3-5d6e9902bd87_linkedin-photo-25981.linkedin-photo-25981",
+        "alt": "23/12/17/9a6757a7-500f-46bb-9bc3-5d6e9902bd87_linkedin-photo-25981.linkedin-photo-25981"
+      },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJD7E5FjAnWQ0R2vzoPj3f2ZI)",
         "country": "España",
         "region": "Aragón",
-        "municipality": "Fuentes de Ebro",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Fuentes de Ebro"
       }
     },
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/eduardodemiguel"
+        "URL": "https://linkedin.com/in/eduardodemiguel"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "PostgreSQL",
+          "name": "API",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TensorFlow",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Scss",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PyCharm",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jupyter",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Odoo",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Pytest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Keras",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLAlchemy",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "XML",
+          "name": "Atlassian",
           "type": "technology"
         }
       },
@@ -152,13 +67,31 @@
       },
       {
         "skill": {
-          "name": "Atlassian",
+          "name": "Flask",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Jira",
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -170,7 +103,55 @@
       },
       {
         "skill": {
-          "name": "API",
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jupyter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Keras",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Odoo",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PyCharm",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pytest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       },
@@ -182,8 +163,52 @@
       },
       {
         "skill": {
-          "name": "Flask",
+          "name": "SQL",
           "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLAlchemy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TensorFlow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XML",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacidad de mentorización",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
         }
       }
     ]
@@ -192,8 +217,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/eduardodemiguel"
+          "URL": "https://linkedin.com/in/eduardodemiguel",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "shide.shugo@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "601124491",
+          "countryCode": "+34"
         }
       ]
     },
@@ -232,6 +266,9 @@
         "Research Developer"
       ]
     },
-    "status": "searchingActively"
+    "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría trabajar en una empresa que haga producto enfocado a empresas y a empleados. Que se piensen las cosas varias veces antes de sacar una solución y haya una colaboración estrecha entre departamentos. Me gustaría liderar a un equipo pequeño de desarrolladores back y front para sacar soluciones completas. Tendría que tener tiempo para pensar e investigar nuevas herramientas,  puntos de vista y poder probarlas yo mismo. También poder tratar con cliente para ofrecer asesoramiento y formación sobre las herramientas que desarrollemos."
   }
 }
