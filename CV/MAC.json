@@ -25,6 +25,10 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/eduardodemiguel"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Shide"
       }
     ]
   },
@@ -704,6 +708,10 @@
         {
           "URL": "https://linkedin.com/in/eduardodemiguel",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Shide",
+          "type": "github"
         }
       ]
     },
