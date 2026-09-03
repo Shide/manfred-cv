@@ -482,7 +482,13 @@
         "institution": {
           "name": "Cloudera University"
         },
-        "finishDate": "2014-06-01"
+        "finishDate": "2014-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Spark",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "officialDegree",
