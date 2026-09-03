@@ -514,6 +514,21 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Java Standard Edition 6 Programmer Certified Professional [1Z0-851]",
+        "startDate": "2013-09-01",
+        "institution": {
+          "name": "Oracle"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Java",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Sngular OKR Champion",
         "startDate": "2021-12-01",
         "institution": {
