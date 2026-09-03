@@ -137,7 +137,41 @@
             "finishDate": "2017-05-01",
             "challenges": [
               {
-                "description": "- Análisis de requisitos y desarrollos personalizados para OpenERP 7 (Odoo) principalmente en las áreas de Contabilidad y CRM. - Mantenimiento de todo el OpenERP, velando para que todo funcionase correctamente y sin problemas. - Integraciones y sincronizaciones externas en OpenERP. - Scripting con Jupyter (Ipython Notebook) y ERPPeek. - Refactorización de módulos para aumentar su velocidad. - Otras tecnologías utilizadas: Ansible, SQS, Celery, Git, Python."
+                "description": "- Análisis de requisitos y desarrollos personalizados para OpenERP 7 (Odoo) principalmente en las áreas de Contabilidad y CRM. \n- Mantenimiento de todo el OpenERP, velando para que todo funcionase correctamente y sin problemas. \n- Integraciones y sincronizaciones externas en OpenERP. \n- Scripting con Jupyter (Ipython Notebook) y ERPPeek. \n- Refactorización de módulos para aumentar su velocidad. \n- Otras tecnologías utilizadas: Ansible, SQS, Celery, Git, Python."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Amazon SQS",
+                "type": "technology"
+              },
+              {
+                "name": "Ansible",
+                "type": "technology"
+              },
+              {
+                "name": "Celery",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Jupyter",
+                "type": "technology"
+              },
+              {
+                "name": "Odoo",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
               }
             ]
           }
