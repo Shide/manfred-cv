@@ -459,6 +459,16 @@
     ],
     "studies": [
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Big Data Hadoop",
+        "startDate": "2014-01-01",
+        "institution": {
+          "name": "Cloudera University"
+        },
+        "finishDate": "2014-03-01"
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "C.F.G.S. Desarrollo de Aplicaciones Informáticas",
