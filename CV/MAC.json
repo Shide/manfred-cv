@@ -136,7 +136,7 @@
       {
         "name": "ES",
         "fullName": "Español",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -347,13 +347,9 @@
         }
       ],
       "preferredRoles": [
-        "Backend Developer",
-        "Data Analyst & BI",
         "Data Scientist",
-        "Developer Evangelist & Advocate",
-        "Implementation & Solutions Engineer",
-        "Project Manager & Delivery Manager",
-        "Research Developer"
+        "Full-stack Developer",
+        "Implementation & Solutions Engineer"
       ]
     },
     "status": "openToOffers",
@@ -364,6 +360,28 @@
     }
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Odoo",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "XML",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me gustaría trabajar en una empresa que haga producto enfocado a empresas y a empleados. Que se piensen las cosas varias veces antes de sacar una solución y haya una colaboración estrecha entre departamentos. Me gustaría liderar a un equipo pequeño de desarrolladores back y front para sacar soluciones completas. Tendría que tener tiempo para pensar e investigar nuevas herramientas,  puntos de vista y poder probarlas yo mismo. También poder tratar con cliente para ofrecer asesoramiento y formación sobre las herramientas que desarrollemos."
   }
 }
