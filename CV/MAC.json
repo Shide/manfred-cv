@@ -196,7 +196,25 @@
             "finishDate": "2015-10-01",
             "challenges": [
               {
-                "description": "- Desarrollos a medida para empresas de carácter Industrial en OpenERP (Odoo) sobre Python 2.6x, 2.7x y PostgreSQL. - Proyectos orientados a Big Data y al Análisis de Datos. - Desarrollo Frontend y Backend en Python 2.6+, Pyramid y Javascript (ECMAScript 5+)  "
+                "description": "- Desarrollos a medida para empresas de carácter Industrial en OpenERP (Odoo) sobre Python 2.6x, 2.7x y PostgreSQL. \n- Proyectos orientados a Big Data y al Análisis de Datos. \n- Desarrollo Frontend y Backend en Python 2.6+, Pyramid y Javascript (ECMAScript 5+)  "
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Odoo",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
               }
             ]
           }
