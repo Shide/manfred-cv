@@ -488,13 +488,13 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Capacidad de mentorización",
+          "name": "Capacidad de abstracción",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Pensamiento analítico",
+          "name": "Capacidad de mentorización",
           "type": "practice"
         }
       },
