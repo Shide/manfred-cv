@@ -501,22 +501,6 @@
         "finishDate": "2006-01-01"
       },
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Curso preparatorio para MondgoDB Certified Developer Associate y Certified DBA Associate",
-        "startDate": "2014-08-01",
-        "institution": {
-          "name": "MongoDB University"
-        },
-        "finishDate": "2014-10-01",
-        "linkedCompetences": [
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "certification",
         "degreeAchieved": false,
         "name": "Deep Learning (Specialization)",
@@ -599,15 +583,33 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Java Standard Edition 6 Programmer Certified Professional [1Z0-851]",
         "startDate": "2013-09-01",
         "institution": {
           "name": "Oracle"
         },
+        "finishDate": "2013-09-01",
         "linkedCompetences": [
           {
             "name": "Java",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "MondgoDB Certified Developer Associate y Certified DBA Associate",
+        "startDate": "2014-08-01",
+        "institution": {
+          "name": "MongoDB University",
+          "description": "Curso preparatorio para MondgoDB Certified Developer Associate y Certified DBA Associate"
+        },
+        "finishDate": "2014-10-01",
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
             "type": "technology"
           }
         ]
