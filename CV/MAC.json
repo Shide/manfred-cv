@@ -545,7 +545,25 @@
         "institution": {
           "name": "CTA Zaragoza"
         },
-        "finishDate": "2012-02-01"
+        "finishDate": "2012-02-01",
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Windows",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "unaccredited",
