@@ -640,13 +640,14 @@
       },
       {
         "studyType": "certification",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Programming in HTML5 with Javascript and CSS3",
         "startDate": "2013-01-01",
         "institution": {
           "name": "Microsoft",
           "description": "ID Credencial: E135-4040"
         },
+        "finishDate": "2013-01-01",
         "linkedCompetences": [
           {
             "name": "CSS",
