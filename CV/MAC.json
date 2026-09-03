@@ -511,6 +511,16 @@
         }
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Designing Serious Videogames: From theory to practical applications",
+        "startDate": "2012-05-01",
+        "institution": {
+          "name": "Universidad de Zaragoza"
+        },
+        "finishDate": "2012-06-01"
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería Técnica en Informática de Sistemas",
