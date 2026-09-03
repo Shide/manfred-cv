@@ -514,16 +514,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Sequence Models",
-        "startDate": "2021-05-01",
-        "institution": {
-          "name": "Coursera",
-          "URL": "https://www.coursera.org/account/accomplishments/certificate/6MAQF9C8URT4"
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Sngular OKR Champion",
         "startDate": "2021-12-01",
         "institution": {
