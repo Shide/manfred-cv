@@ -489,6 +489,22 @@
         "finishDate": "2006-01-01"
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Curso preparatorio para MondgoDB Certified Developer Associate y Certified DBA Associate",
+        "startDate": "2014-08-01",
+        "institution": {
+          "name": "MongoDB University"
+        },
+        "finishDate": "2014-10-01",
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": false,
         "name": "Deep Learning (Specialization)",
