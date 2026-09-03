@@ -10,8 +10,8 @@
       "surnames": "de Miguel Portolés",
       "title": "Senior Odoo Software Engineer @ Moduon Team",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/17/224388da-a4f4-4faa-92bc-0b0c223be960_linkedin-photo-25981.linkedin-photo-25981",
-        "alt": "23/12/17/224388da-a4f4-4faa-92bc-0b0c223be960_linkedin-photo-25981.linkedin-photo-25981"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/17/13c5cd40-8f23-45c6-bc62-7a1f27c2af77_linkedin-photo-25981.linkedin-photo-25981",
+        "alt": "23/12/17/13c5cd40-8f23-45c6-bc62-7a1f27c2af77_linkedin-photo-25981.linkedin-photo-25981"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJD7E5FjAnWQ0R2vzoPj3f2ZI)",
@@ -319,15 +319,6 @@
           "URL": "https://linkedin.com/in/eduardodemiguel",
           "type": "linkedin"
         }
-      ],
-      "contactMails": [
-        "shide.shugo@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "601124491",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -347,7 +338,7 @@
       ],
       "discardedCompetences": [
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
@@ -357,7 +348,7 @@
       ],
       "preferredRoles": [
         "Backend Developer",
-        "Data Analysis & BI",
+        "Data Analyst & BI",
         "Data Scientist",
         "Developer Evangelist & Advocate",
         "Implementation & Solutions Engineer",
