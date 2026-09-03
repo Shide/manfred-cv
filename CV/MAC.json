@@ -36,7 +36,18 @@
         "roles": [
           {
             "name": "Odoo Developer",
-            "startDate": "2022-01-01"
+            "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "- Implementación, traspaso y migración de Clientes en Odoo\n- Desarrollo, Tests y Revisión de módulos en OCA e Interno\n- Stack Tecnológico de OCA\n- Odoo EE 14+\n- Desarrollo de producto\n- Formación a nuevos pupilos\n- Uso de la IA en diversos ámbitos"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Odoo",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
