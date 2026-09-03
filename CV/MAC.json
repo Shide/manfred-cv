@@ -608,7 +608,21 @@
         "institution": {
           "name": "Oracle University"
         },
-        "finishDate": "2013-04-01"
+        "finishDate": "2013-04-01",
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "J2EE",
+            "type": "technology"
+          },
+          {
+            "name": "Java",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "certification",
