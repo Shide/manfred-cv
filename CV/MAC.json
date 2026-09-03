@@ -452,12 +452,6 @@
       },
       {
         "skill": {
-          "name": "XML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "jQuery",
           "type": "technology"
         }
@@ -552,6 +546,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
         "name": "JavaScript",
         "type": "technology"
       },
@@ -565,10 +563,6 @@
       },
       {
         "name": "Python",
-        "type": "technology"
-      },
-      {
-        "name": "XML",
         "type": "technology"
       }
     ],
