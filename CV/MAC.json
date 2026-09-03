@@ -466,7 +466,13 @@
         "institution": {
           "name": "Cloudera University"
         },
-        "finishDate": "2014-03-01"
+        "finishDate": "2014-03-01",
+        "linkedCompetences": [
+          {
+            "name": "Hadoop",
+            "type": "technology"
+          }
+        ]
       },
       {
         "studyType": "unaccredited",
