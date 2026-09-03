@@ -469,12 +469,45 @@
         "finishDate": "2006-01-01"
       },
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Deep Learning",
+        "startDate": "2021-05-01",
+        "institution": {
+          "name": "Coursera",
+          "description": "In this Specialization, you built neural\nnetwork architectures such as Convolutional Neural Networks,\nRecurrent Neural Networks, LSTMs, Transformers, and learned how\nto make them better with strategies such as Dropout, BatchNorm,\nand Xavier/He initialization. You mastered these theoretical concepts,\nlearned their industry applications using Python and TensorFlow, and\ntackled real-world cases such as speech recognition, music synthesis,\nchatbots, machine translation, natural language processing, and\nmore. You are now familiar with the capabilities and challenges of\ndeep learning. You are ready to take the definitive step in the world\nof Al and participate in the development of leading-edge technology.",
+          "URL": "https://coursera.org/verify/specialization/KV425LSPV47S"
+        },
+        "linkedCompetences": [
+          {
+            "name": "PyTorch",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Scikit-learn",
+            "type": "technology"
+          },
+          {
+            "name": "Sklearn",
+            "type": "technology"
+          },
+          {
+            "name": "TensorFlow",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería Técnica en Informática de Sistemas",
         "startDate": "2006-01-01",
         "institution": {
-          "name": "EUPLA / Universidad de Zaragoza"
+          "name": "Escuela Universitaria Politécnica La Almunia (UNIZAR)"
         },
         "finishDate": "2012-01-01"
       }
