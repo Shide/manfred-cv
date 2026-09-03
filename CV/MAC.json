@@ -510,6 +510,17 @@
           "name": "Escuela Universitaria Politécnica La Almunia (UNIZAR)"
         },
         "finishDate": "2012-01-01"
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Sngular OKR Champion",
+        "startDate": "2021-12-01",
+        "institution": {
+          "name": "UXER SCHOOL",
+          "description": "Curso de OKR Champion",
+          "URL": "https://www.credential.net/b94a36ca-8c4f-4cc5-8433-e3856c1a7b42"
+        }
       }
     ],
     "softSkills": [
