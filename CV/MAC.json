@@ -62,7 +62,37 @@
             "finishDate": "2021-12-01",
             "challenges": [
               {
-                "description": "Odoo skills: - Odoo 8, Odoo 12 - Odoo Full Migration (Odoo 8 to Odoo 12) - Everyday module designing and development (Odoo, OCA, Custom) - Odoo Server Config tunning - POS Customisation - Portal Customisation  Odoo Integration skills: - Weblate (Translators portal) + API cross sync - Crosscheck Time Attendance Integration (Improved a lot) - Banking Reconciliation Platform - Paypal Sync, Paypal Discussions - Google Maps Geocoding, Google OAuth - Sendgrid - Other (Slack Apps, Zopim)  Web Crawling skills: - Scrapy + Selenium + Tesseract - Algolia Docsearch + Framework Improvements - Odoo related modules  DevOps skills: - Jenkins scripting, triggers, integration, etc  Artificial Intelligence skills: - Practical applications with Convolutional Neural Networks (Remove backgrounds, colorize, etc) - Several Custom Algorithms (Stock, Translation, Statistics, etc)  Other (but not less important) skills: - Python 2.7 to Python 3.6+ - Clean, Concise, Documented and Standarized code (PEP 8 and OCA standards) - Documentation with Sphinx Autodoc - Git (Vincent Driessen's Git flow), Bitbucket - Jira Software: Projects configuration, management, reporting and automation - BBDD: Postgres (v9 and V10), MySql, SqlServer - Cross BBDD Synchronization - Jupyter (IPython) Notebook Scripting"
+                "description": "Odoo skills: \n- Odoo 8, Odoo 12 \n- Odoo Full Migration (Odoo 8 to Odoo 12) \n- Everyday module designing and development (Odoo, OCA, Custom) \n- Odoo Server Config tunning \n- POS Customisation \n- Portal Customisation  \n\nOdoo Integration skills: \n- Weblate (Translators portal) + API cross sync \n- Crosscheck Time Attendance Integration (Improved a lot) \n- Banking Reconciliation Platform \n- Paypal Sync, Paypal Discussions \n- Google Maps Geocoding, Google OAuth \n- Sendgrid - Other (Slack Apps, Zopim)  \n\nWeb Crawling skills: \n- Scrapy + Selenium + Tesseract \n- Algolia Docsearch + Framework Improvements \n- Odoo related modules  \n\nDevOps skills: \n- Jenkins scripting, triggers, integration, etc  \n\nArtificial Intelligence skills: \n- Practical applications with Convolutional Neural Networks (Remove backgrounds, colorize, etc) \n- Several Custom Algorithms (Stock, Translation, Statistics, etc)  \n\nOther (but not less important) skills: \n- Python 2.7 to Python 3.6+ \n- Clean, Concise, Documented and Standarized code (PEP 8 and OCA standards) \n- Documentation with Sphinx Autodoc \n- Git (Vincent Driessen's Git flow), Bitbucket \n- Jira Software: Projects configuration, management, reporting and automation \n- BBDD: Postgres (v9 and V10), MySql, SqlServer \n- Cross BBDD Synchronization \n- Jupyter (IPython) Notebook Scripting"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jupyter",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Odoo",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
               }
             ]
           }
