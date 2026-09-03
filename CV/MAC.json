@@ -44,7 +44,35 @@
             ],
             "competences": [
               {
+                "name": "Gemini AI",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
                 "name": "Odoo",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "XML",
                 "type": "technology"
               }
             ]
