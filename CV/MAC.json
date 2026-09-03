@@ -502,6 +502,15 @@
         ]
       },
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Desarrollo de aplicaciones HTML5 para móviles. MCSD: Windows Store Apps Using HTML5",
+        "startDate": "2012-01-01",
+        "institution": {
+          "name": "CTA Zaragoza"
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Ingeniería Técnica en Informática de Sistemas",
